@@ -1,3 +1,3 @@
 Models for disinfection kinetics.
 
-[Tutorial](disinfectionKineticsModels.html)
+[Tutorial](kinetics_tutorial.html)
