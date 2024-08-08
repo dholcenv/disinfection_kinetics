@@ -2,7 +2,7 @@ Models for disinfection kinetics.
 
 [Tutorial](kinetics_tutorial.html)
 
-[Kinetic model functions (R script))](kinetics_functions.R)
+[Kinetic model functions (R script)](kinetics_functions.R)
 
 [Microbial concentration data (CSV)](ek_survival.csv)
 
